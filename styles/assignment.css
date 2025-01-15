@@ -14,7 +14,7 @@ nav {
     color: #25715e;
     border-radius: 3px;
     border-color:#0ca57f ;
-    
+   
 }
 .button{
     background-color:#0ca57f;
@@ -37,4 +37,89 @@ nav {
     
     margin:0 300px 0 35px ;
 
+}
+.item-container{
+    display: flex;
+    gap: 24px;
+    
+}
+.item{
+    padding: 20px;
+    background-color: rgb(121, 126, 130);
+    margin: 2px 5px 0 5px;
+    border-radius: 10px;
+  
+}
+.pillars{
+    margin-left: 20px;
+    margin-top: 70px;
+}
+.future-container{
+    display: flex;
+    gap: 24px;
+}
+
+.future{
+    margin-left: 20px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.ss{
+    background-color: #0ca57f;
+    border-radius: 10px;
+}
+.bb{
+    background-color: #cdeae3;
+    border-radius: 10px;
+}
+.cc{
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+section div .btn{
+    background-color: #6c706f ;
+    border-radius: 3px;
+    border: none;
+}.img{
+    height: 30px;
+    width:40px ;
+    border-radius: 10px;
+    align-items: center;
+
+}.Date{
+    display: flex;
+    gap: 5px;
+}
+
+.portfolio{
+    display: flex;
+    justify-content: space-between;
+}
+.img1{
+    height: 306px;
+    width: 408px;
+    border-radius: 10px;
+    margin-left: 24px;
+}
+.card{
+    display: flex;
+    gap: 50px;
+    background-color: beige;
+    border-radius: 10px;
+}
+.date{
+    display: flex;
+    gap: 10px; 
+    margin-top: auto; 
+    margin: bottom 0;
+}
+.news{
+    margin: 0 0 0 24px;
+}
+.cadr-desciption{
+    margin-top: 0;
+}
+.info{
+    display: flex;
+    
 }
